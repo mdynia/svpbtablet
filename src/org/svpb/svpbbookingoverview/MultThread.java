@@ -12,7 +12,7 @@ import android.webkit.WebView;
 
 public class MultThread extends AsyncTask<Void, Void, Void> {
 
-	private static final String URL = "http://mein.svpb.de/boote/booking/today/public/";
+	private static final String URL = "https://mein.svpb.de/boote/booking/today/public/";
 
 	private Context context;
 	private WebView webView;
